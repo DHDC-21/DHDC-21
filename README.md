@@ -26,7 +26,7 @@ Desenvolvedor web apaixonado por tecnologia e infraetrutura.
 * Banco de Dados:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-* <!-- ![SQL]() -->
+<!-- ![SQL]() -->
 
 * Ferramentas:
 ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
