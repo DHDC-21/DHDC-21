@@ -27,5 +27,3 @@ src="https://img.shields.io/github/followers/dhdc-21?logo=github&style=for-the-b
 <a href="https://github.com/dhdc-21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhdc-21&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Top Repositories
-
-<div width="100%" align="center"><a href="https://github.com/dhdc-21/projeto-lumos" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhdc-21&repo=projeto-lumos&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dhdc-21/projeto-lavoisier" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhdc-21&repo=projeto-lavoisier&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
